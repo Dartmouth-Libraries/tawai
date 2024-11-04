@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../pythoncode/computational-text-analysis-week"
+		},
+		{
+			"path": "../../../textAnalysis"
+		}
+	],
+	"settings": {}
+}

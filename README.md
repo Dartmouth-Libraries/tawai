@@ -14,7 +14,12 @@ See our [**Programming with Python** guide](https://researchguides.dartmouth.edu
 ### 2b. Dartmouth Research Data Services Resources
 
 Our other tutorials and coding notebooks for performing text analysis with Python are available in two places:
-* in our **GitHub** repositories, see especially ?? and ??.
+* in our **GitHub** repositories, see especially:
+
+    + [Computational Text Analysis Week](https://github.com/Dartmouth-Libraries/computational-text-analysis-week) repository
+
+    + [Text Analysis with Python](https://github.com/Dartmouth-Libraries/Text-Analysis-with-Python) repository 
+
 * on our **Jupyter Hub** server - where you can work with our notebooks interactively without needing to install Python or these notebooks on your own computer
     + to access these resources, follow [our instructions for using our JupyterHub platform](https://researchguides.dartmouth.edu/data_management/jupyter).
 
@@ -22,11 +27,17 @@ Our other tutorials and coding notebooks for performing text analysis with Pytho
 
 **Constellate Tutorials**
 
-**Melanie Walsh, *Intro to Cultural Analytics***
++ Create a [Constellate](https://constellate.org) account using your Dartmouth email.
+
++ Explore their text analysis tutorials in Python and R
+
+**Melanie Walsh, [*Intro to Cultural Analytics***](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
 
 ## 3. Tutorials for working with Python (beyond text analysis)
 
 ### 3a. Dartmouth Research Data Services Resources
+
+    
 
 ### 3b. Other Resources
 

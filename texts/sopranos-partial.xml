@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8">
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0" xmlns:hist="http://personal-website-here.com">
+<text>
+    <front>
+        <title>The Sopranos - Pilot Episode</title>
+        <set>Locations</set>
+        <castList>
+            <castMember>THOMAS SOPRANO</castMember>
+            <castMember>DR. JENNIFER MELFI</castMember>
+            <castMember>CARMELA SOPRANO</castMember>
+            <castMember>MEADOW SOPRANO</castMember>
+            <castMember>TOMMY JR.</castMember>
+            <castMember>CHRIS MOLTISANTI</castMember>
+            <castMember>BIG PUSSY BONPENSIERO</castMember>
+            <castMember>PAT "PAULIE WALNUTS" GUALTIERI</castMember>
+            <castMember>DICK BARONE</castMember>
+            <castMember>ARTIE BUCCO</castMember>
+            <castMember>CHARMAINE</castMember>
+            <castMember>LIVIA SOPRANO</castMember>
+            <castMember>FATHER PHIL</castMember>
+            <castMember>SILVIO DANTE</castMember>
+            <castMember>HERMAN "HESH" RABKIN</castMember>
+        </castList>
+    </front>
+    <body>
+        <div>
+            <head>INT. DR. MELFI'S WAITING ROOM - DAY</head>
+            <stage>THOMAS SOPRANO, 40, sits and waits. Uneasily. Staring confusedly at a vaguely erotic Klimpt reproduction. Inner door opens. DR. JENNIFER MELFI (attractive, 35) appears.</stage>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Mr. Soprano?</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. DR. MELFI'S OFFICE - DAY</head>
+            <stage>Melfi gestures Tommy to a choice of seating.</stage>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Have a seat.</l>
+            </sp>
+            <stage>She seats herself in a facing armchair. She looks at him with a polite, expectant gaze. He stares back, waiting. There is utter silence. Nothing happens. Such is psychotherapy. Finally—</stage>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>My understanding from your family physician, Dr. Cusamano, is you collapsed? Were unable to breathe? Possibly a panic attack?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>They said it was a panic attack — because all the neurological work and blood came back negative. They sent me here.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>You don't agree you had a panic attack?</l>
+            </sp>
+            <stage>He laughs — too loud.</stage>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>How are you feeling now?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Now? Fine. I'm back at work.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>What line of work are you in?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Waste management consultant.</l>
+            </sp>
+            <stage>She keeps that psychiatric poker-face. Yet there was a reaction. After silence...</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Look...it's impossible for me to talk to a psychiatrist.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Any thoughts at all on why you blacked out?</l>
+            </sp>
+            <stage>Tommy shrugs. Fidgets. Then —</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I don't know. Stress/ maybe?</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Stress? About what?</l>
+            </sp>
+        </div>
+        <div>
+            <head>EXT. SOPRANO HOUSE - DAWN</head>
+            <stage>split-level. New Jersey. The only thing distinguishing it from its neighbors is high security fencing and mercury vapor lamps that make the lawn bright enough for night baseball. A sensor reels the dawn's rays and the lamps switch off and —</stage>
+        </div>
+        <div>
+            <head>INT. SOPRANO HOUSE - BEDROOM - DAWN</head>
+            <stage>TOMMY'S EYE slams open from sleep. He stares soberly up at the ceiling.</stage>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>That morning of the day I got sick? I'd been thinking: it's good to be in a thing from the ground floor. I came too late for that, I know. But lately I'm getting the feeling I might be in at the end. That the best is over.</l>
+            </sp>
+        </div>
+        <div>
+            <head>EXT. SOPRANO HOUSE - DAY</head>
+            <stage>Bathrobed Tommy reads his morning paper in the gated driveway: CLINTON WARNS MEDICARE COULD BE BANKRUPT BY YEAR 2000. Tommy goes to the Sports, ambles down the driveway.</stage>
+            <sp>
+                <speaker>MELFI (V.O.)</speaker>
+                <l>Many Americans, I think, feel this.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>Take my father. He never reached the heights like me. But in ways he had it better. He had his people — they had their standards. They had pride. Today what do we .got?</l>
+            </sp>
+            <sp>
+                <speaker>MELFI (V.O.)</speaker>
+                <l>Did you have this feeling of loss more acutely in the hours before you collapsed?</l>
+            </sp>
+        </div>
+        <div>
+            <head>EXT. SOPRANO BACKYARD - DAY</head>
+            <stage>An expanse of lawn, then a pool with Tropitone furniture. Tommy gathers speed, excited. But reaching the pool, he looks around, worried. The water is like glass. The morning is too still.</stage>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>I dunno. Couple months before all this these two wild ducks had landed in my pool. Amazing. From Canada or someplace, I don't know. It was mating season.</l>
+            </sp>
+            <stage>DUCK FAMILY wild mallards, mother and babies, comes waddling from the bushes, QUACKING. Tommy beams, takes feed from a bin and drops down on both knees. He feeds them.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Yum. Yum.</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. SOPRANO HOUSE - KITCHEN - DAY</head>
+            <stage>CARMELA SOPRANO (mid 30's), in bathrobe, makes breakfast for her kids. She is a dark-eyed, dark-haired, pretty woman with blonde hi-lites. Hi-lites and nails are a priority. At the table are MEADOW SOPRANO, 15, and her friend, HUNTER SCANGARELO.</stage>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>My daughter's friend was there to drive my daughter, Meadow, to school.</l>
+            </sp>
+            <sp>
+                <speaker>HUNTER</speaker>
+                <l>(staring out window) Meadow, your father with those ducks.</l>
+            </sp>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>Have something more than just cran- apple juice, ladies. You need brain food for school.</l>
+            </sp>
+            <stage>TOMMY JR. enters. He's thirteen. He sits, starts spooning cereal in. Carmela smooches him. Everyone ad-libs happy birthdays. He acknowledges, his mouth crammed with food.</stage>
+            <sp>
+                <speaker>HUNTER</speaker>
+                <l>The male and female duck just made a home in your pool and 'did it'? Weird.</l>
+            </sp>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>(crosses with pastry) Girls, you want some of last night's sfogliatell'?</l>
+            </sp>
+            <sp>
+                <speaker>MEADOW</speaker>
+                <l>Get out of here with that fat.</l>
+            </sp>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>Oh, have a bite.</l>
+            </sp>
+            <sp>
+                <speaker>MEADOW</speaker>
+                <l>Wait — like Italian pastry is brain food?</l>
+            </sp>
+            <sp>
+                <speaker>HUNTER</speaker>
+                <l>Bon Jovi? Hello?</l>
+            </sp>
+            <stage>They laugh. Tommy Jr.'s hand goes in the box; he dunks the Italian pastry in his cereal milk and eats. The girls 'ee-ew'.</stage>
+            <sp>
+                <speaker>HUNTER</speaker>
+                <l>How do you stay so skinny, Mrs. Soprano?</l>
+            </sp>
+        </div>
+        <div>
+            <head>EXT. SOPRANO BACKYARD - POOL - DAY</head>
+            <stage>Tommy has waded into the pool to adjust a plywood launching ramp he has constructed for the ducks. His robe floats on the water; he doesn't care. He talks to the ducks.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Don't you worry. I'll make you a better ramp.</l>
+            </sp>
+            <stage>The ducklings suddenly furiously flap their wings in protoflight, following their mother's lead.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Kids! Come here!</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. SOPRANO HOUSE - KITCHEN - DAY</head>
+            <stage>TOMMY (V.O.) Hey, kids!</stage>
+            <stage>The teenagers trudge dutifully to the door.</stage>
+        </div>
+        <div>
+            <head>EXT. SOPRANO BACKYARD - POOL - DAY</head>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Look! They're trying to fly.</l>
+            </sp>
+            <sp>
+                <speaker>KIDS</speaker>
+                <l>(bored, humoring) Nice, dad. National Geographic. [ETC]</l>
+            </sp>
+            <stage>They go back inside.</stage>
+        </div>
+        <div>
+            <head>INT. SOPRANO HOUSE - KITCHEN - DAY</head>
+            <sp>
+                <speaker>HUNTER</speaker>
+                <l>It is so cool you're going to be able to come to Aspen with my family at Christmas. Last year at Aspen? I saw Skeet Ulrich. As close as from where you're sitting.</l>
+            </sp>
+            <sp>
+                <speaker>MEADOW</speaker>
+                <l>Omigod.</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. DR. MELFI'S OFFICE - DAY</head>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>My wife feels this friend of Meadow's is a bad influence.</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. SOPRANO HOUSE - KITCHEN - DAY</head>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>Miss Meadow, we made a deal — you keep your school grades up and you keep your curfew between now and Christmas — then you get to go.</l>
+            </sp>
+            <sp>
+                <speaker>MEADOW</speaker>
+                <l>(edge) I know that.</l>
+            </sp>
+            <stage>Tommy enters, robe gone, his lower torso wrapped in a beach towel. He claps Tommy Jr. on the back.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Happy birthday, son.</l>
+            </sp>
+            <stage>He runs his hand on Carmela's butt, but she seems not to notice. So he starts slap fighting with Tommy Jr.</stage>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>You're going to be home tonight for Tommy Jr.'s party, right? (to his grunt) Birdman. Hello?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I'll get home from work early.</l>
+            </sp>
+            <sp>
+                <speaker>CARMELA</speaker>
+                <l>I wasn't talking about work.</l>
+            </sp>
+            <stage>She moves off sullenly. As he watches her —</stage>
+        </div>
+        <div>
+            <head>INT. DR. MELFI'S OFFICE - DAY</head>
+            <stage>Tommy — in the present — a strained silence. She stares.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>This isn't going to work. I can't talk about my personal life.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>It's hard for everybody.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>You don't understand.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Finish telling me about the day you collapsed.</l>
+            </sp>
+        </div>
+        <div>
+            <head>INT. CHRIS' CAR - DAY</head>
+            <stage>Back to the past. Brand new Lexus 400.</stage>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>I rode to work with my nephew, Christopher...he's learning the business.</l>
+            </sp>
+            <stage>CHRIS MOLTISANTI (25) is in cool-ass cruise mode. Good looking — almost pretty — wears an earring, a Jersey Shark's ball cap. He is chuckling at Howard Stern on the radio. Tommy rides passenger, engrossed in his Audubon book.</stage>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>He's an example of what I was saying before...</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>You call whatsisname at Triboro Towers about the hauling contract?</l>
+            </sp>
+            <sp>
+                <speaker>CHRIS</speaker>
+                <l>I got home too late last night. I didn't want to wake the man up.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>You get up early this morning and call? He's always in the office at six.</l>
+            </sp>
+            <sp>
+                <speaker>CHRIS</speaker>
+                <l>I was nauseous this morning. My mom told me I shouldn't even go in today.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY (V.O.)</speaker>
+                <l>Bear in mind, this is a kid who just bought himself a 60,000 dollar Lexus.</l>
+            </sp>
+            <stage>They are now in a business district. Chris' head whips around.</stage>
+        </div>
+        <div>
+            <head>EXT. STREET - BUSINESS DISTRICT - US/HMO - DAY</head>
+            <sp>
+                <speaker>CHRIS</speaker>
+                <l>It's that guy. Mahaffey.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Get out.</l>
+            </sp>
+            <sp>
+                <speaker>CHRIS</speaker>
+                <l>Back there. See? With the boo-boo in red?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Back up.</l>
+            </sp>
+            <stage>ON MAHAFFEY a forty-four-year-old executive, walking with a YOUNG WOMAN, a secretary. They carry lattes and bagels.</stage>
+            <stage>The Lexus pulls up. Tommy gets out —</stage>
+        </div>
+        <div>
+            <head>INT. DR. MELFI'S OFFICE - DAY</head>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>There was an issue of an outstanding loan —</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Let me stop you a second.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Sure.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>I have no idea where this story is going...but there are a few ethical ground rules we should quickly get out of the way.</l>
+            </sp>
+            <stage>He waits. She smiles nervously.</stage>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>You said you were in waste management...</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>Recycle. The environment.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>Dr. Cusamano, besides being your family physician, is also your next door neighbor. See what I'm saying?</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I get it. Yeah.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>(dry mouth) What you tell me in here falls under doctor/patient confidentiality. Except — if I was, for example, to hear that a...say a...murder? was about to take place — (quickly) not that I'm saying — but, if.. Well, anything like that...where a patient tells me someone is going to be hurt? I'm supposed to go to the authorities. Technically.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>(long beat) Oh.</l>
+            </sp>
+            <sp>
+                <speaker>MELFI</speaker>
+                <l>I don't know what happened with this Mahaffey fellow. I'm just saying.</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I see.<l/>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>(beat) Nothing. We had coffee.</l>
+            </sp>
+        </div>
+        <div>
+            <head>EXT. STREET - BUSINESS DISTRICT - US/HMQ - DAY</head>
+            <stage>When Mahaffey sees Tommy, his latte spatters the sidewalk as he takes off running! Chris takes after him.</stage>
+            <stage>THE PURSUIT Chris and Mahaffey burn up the sidewalk. Bystanders peer curiously. Tommy calmly gets behind the Lexus wheel, makes a U-turn.</stage>
+            <stage>Mahaffey runs toward a sleek five story office building, US/HMO. He cuts across the lawn making for the front entrance. </stage>
+            <sp>
+                <speaker>MAHAFFEY</speaker>
+                <l>Security!</l>
+            </sp>
+            <stage>Chris closes, grabs him by his neck, tries to swing him to the ground. Chris loses his footing on the slippery grass and Mahaffey twirls free. But Chris is now between him and the door; Mahaffey cuts for the parking lot, panting, full out, grabbing in his pocket for his car keys. Chris runs after him into the lot.</stage>
+        </div>
+        <div>
+            <head>EXT. PARKING LOT - DAY</head>
+            <stage>Tommy suddenly draws abreast of Chris in the Lex, gives a cheerful TOOT, then accelerates down the parking aisle. Mahaffey's legs churning.</stage>
+            <stage>THE LEXUS deliberately clips Mahaffey. He hurtles over the car about thirty feet, crashes to the ground. Tommy calmly gets out.</stage>
+            <sp>
+                <speaker>MAHAFFEY</speaker>
+                <l>My leg! It's broken! Oh fuck, oh fuck, the bone's coming through!</l>
+            </sp>
+            <stage>Tommy starts punching him in the face briskly and efficiently.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I'll give you a fuckin' bone. Where's my money?</l>
+            </sp>
+            <stage>The secretary comes up, watches in horror. One of the Lexus' headlights hangs by its wires and Chris broken-heartedly tries to put it back in.</stage>
+            <sp>
+                <speaker>MAHAFFEY</speaker>
+                <l>I'll get the money!</l>
+            </sp>
+            <stage>Tommy continues punching, but tiring.</stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I know you'll get the — (sees Chris fussing over the car)</l>
+            </sp>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>The fuck you doing? Get over here.</l>
+            </sp>
+            <stage>Chris crosses, takes over the physical labor — kicking Mahaffey in chest and stomach while Tommy catches his breath and picks up where he left off — </stage>
+            <sp>
+                <speaker>TOMMY</speaker>
+                <l>I know you'll get the money. What you ought to fuckin' get is a fuckin' cork to put in your mouth.</l>
+            </sp>
+        </div>
+    </body>
+</text>
+

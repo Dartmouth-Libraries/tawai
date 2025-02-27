@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0" xmlns:hist="http://personal-website-here.com">
-<text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt></publicationStmt>
+            <sourceDesc></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
     <front>
         <title>The Sopranos - Pilot Episode</title>
         <set>Locations</set>
